@@ -1,0 +1,181 @@
+ 
+
+
+2)What is UAT?
+
+UAT is called as User Acceptance testing,
+
+It is the final stage of Testing once the appliction was finished then client will test the appliction, 
+Weather it was working according to users requirement or not 
+
+It will be in two ways 
+
+1)Alpha Testing:
+Application will test at development environment
+
+2)Beta Testing:
+Application will be test at client environment
+
+
+3)defect life cycle?
+
+a)Defect ID:
+
+b)Tittle:
+
+c)Description:
+
+d)Test Environment:
+
+e)Steps to Reproduce:
+
+f)Expected resul:
+
+g)Actual Result:
+
+h)Attachments:
+
+i)Severity:
+
+j)Proirity:
+
+K)Assign:
+
+
+
+4) Black box testing and White box testing?
+
+Black Box Testing:
+
+Black box testing is the Software testing method which is used to test the software without knowing the internal structure of code or program.
+This type of testing is carried out by testers.
+Programming and implementation Knowledge is not required to carry out Black Box Testing.
+The main aim of this testing to check on what functionality is performing by the system under test.
+
+Exp: System Testing, User Acceptance Testing
+
+White Box Testing:
+
+White box testing is the software testing method in which internal structure is being known to tester who is going to test the software
+Generally, this type of testing is carried out by software developers.
+Programming and implementation Knowledge is  required to carry out White Box Testing.
+The main aim of White Box testing to check on how System is performing.
+Exp: Unit Testing, System Testing
+
+
+
+
+5) What is difference between variable and object?
+
+Variable:
+
+If we create instance for data type then it is called Variable 
+Variable is a named storage of some data type (like int, cha, float etc). 
+These values can be accessed in code later in the program
+
+
+Object:
+
+If we create instance for class then it is called Object
+
+object is an instance of a class. And class is nothing but a user defined data type.
+
+
+Automation
+
+
+1). Waht is Constructer?
+
+Constructer is also a method, it doesn't writen any thing
+
+Constructer is a special method of a class whch will invoke automatically whenever instance or object of class is created.
+All classes have constructors by default if we do not need to create a class constructor, it will creates one automatically.
+ 
+The constructor name must match the class name, and it cannot have a return type
+
+It will call only when the object is initialized
+We can write n number of Constructers in a class
+
+
+
+4). What is Access Modifiers?
+
+They are 3 types 
+a) Public: 
+We can use this method any where
+
+b) privite :
+We can use this method with in the class only
+
+c) Protect:
+We can use this Method with in the class and derived class also
+
+e) Internal
+f) Protect Internal
+
+
+
+5) What is proporties?
+
+
+6) What is Inheritence?
+
+
+Inheritance (Derived and Base Class)
+
+7)What is polymorphism?
+It has two concepts
+1)Compail Polymorphism(OverLoading)
+
+2)Run type Polymorphism(OverRiding)
+
+
+
+8)What is Abstraction?
+
+Abstraction is a data hiding concept 
+Abstacting the not required data and enable required data 
+Abstract keyword must be decleared for a class
+we cant create instance for abstract class
+Abstract class can have normal methods & abstract metchods
+Abstract  method doesnt have any definetion
+Abstract method be override in derived Class
+
+
+
+9)What is Interface?
+
+
+
+
+10) Collections Concept?
+
+11)encapsulation concept?
+
+
+
+
+
+Opps
+1)
+2)
+3)
+4)
+
+
+
+https://www.youtube.com/watch?v=UPCOnoQVOGE&list=PLUtTaqnx2RJIY2PJZjm2_h8U6Kv4GyPwz
+
+
+
+Tell me about yourself?
+
+1) Im Subhash, Im having total 5+y of IT experience. 2+y automation and 3y of manual testing in the industries like Banking, Finance, Logistics.
+with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking
+ 
+
+
+
+
+
+
